@@ -122,11 +122,17 @@ git reset --hard commit-hash
 
 ## **🎯 Summary**
 ✅ **Configure Git properly**
+
 ✅ **Create and manage branches efficiently**
+
 ✅ **Commit and push code systematically**
+
 ✅ **Keep your code updated to avoid conflicts**
+
 ✅ **Use Git Stash and Rebase for a clean workflow**
+
 ✅ **Set up Aliases and Hooks to improve efficiency**
+
 ✅ **Troubleshoot common Git issues like file recovery, conflicts, and resets**
 
 Proper Git usage ensures a smooth development process and enhances collaboration! 🚀
