@@ -2,6 +2,8 @@
 
 Git is an essential tool for software development, whether for small or large projects. 🛠️ Proper usage of Git enhances teamwork efficiency, reduces code conflicts, and allows easy rollback to previous states. 🏗️
 
+[🇺🇸 English](README.md) | [🇹🇭 ภาษาไทย](README_th.md)
+
 ---
 
 ## **📌 Essential Git Basics for Developers**
