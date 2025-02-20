@@ -1,4 +1,3 @@
-```md
 # **🚀 Git Development Guide**
 
 Git is an essential tool for software development, whether for small or large projects. 🛠️ Proper usage of Git enhances teamwork efficiency, reduces code conflicts, and allows easy rollback to previous states. 🏗️
@@ -129,4 +128,4 @@ git reset --hard commit-hash
 ✅ **Troubleshoot common Git issues like file recovery, conflicts, and resets**
 
 Proper Git usage ensures a smooth development process and enhances collaboration! 🚀
-```
+
